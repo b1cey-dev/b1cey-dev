@@ -1,4 +1,4 @@
-# Hi there, I'm **[Your Name]!** 👋
+# Hi there, I'm **B1cey!** 👋
 
 I'm a passionate developer who loves turning ideas into reality through code. Welcome to my GitHub profile!
 
