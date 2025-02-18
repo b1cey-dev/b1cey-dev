@@ -29,7 +29,6 @@ After graduation, I'm planning to pursue an **MSc in Software Engineering** to d
 ## ⚡ Tech Stack
 - **Frontend:** React, Tailwind CSS, HTML, CSS, Vite
 - **Learning:** Next.js
-- **Other Skills:** (Mention any other frameworks, tools, or languages you’re comfortable with)
 ---
 
 ## 🔭 Future Goals
