@@ -1,5 +1,5 @@
 <!-- Centered Title & Subtitle -->
-<h1 align="center">Hello there! 👋 I'm b1cey</h1>
+<h1 align="center">Hello there! 👋 I'm b1cey.</h1>
 <h3 align="center">A Final-Year Computer Science Undergraduate</h3>
 
 <!-- Profile Views Badge (uses komarev.com) -->
