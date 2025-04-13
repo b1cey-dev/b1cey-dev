@@ -249,7 +249,7 @@ Post-graduation, I intend to pursue an **MSc in Software Engineering** to furthe
               <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
           </p>
-          <p><strong>HTML, CSS, JavaScript</strong> - Web development course project for De Montfort University showing frontend development skills and responsive design techniques.</p>
+          <p><strong>PHP, Twig</strong> - Web development course project for De Montfort University showing frontend development skills and responsive design techniques.</p>
         </div>
       </td>
       <td width="50%">
