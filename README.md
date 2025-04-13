@@ -137,26 +137,7 @@ Post-graduation, I intend to pursue an **MSc in Software Engineering** to furthe
   </tr>
 </table>
 
-<!-- GitHub Analytics -->
-## 📊 Performance Analytics
 
-<div align="center">
-  <details open>
-    <summary><h3>📈 Contribution Metrics</h3></summary>
-    <br>
-    <p>
-      <a href="https://github.com/b1cey">
-        <img src="https://github-readme-stats.vercel.app/api?username=b1cey&show_icons=true&count_private=true&show_owner=true&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" height="160em" alt="b1cey's GitHub Stats"/>
-        <img src="https://streak-stats.demolab.com?user=b1cey&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="160em" alt="b1cey's Streak"/>
-      </a>
-    </p>
-    <p>
-      <a href="https://github.com/b1cey">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1cey&layout=compact&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" height="160em" alt="b1cey's Most Used Languages"/>
-      </a>
-    </p>
-  </details>
-</div>
 
 <!-- Professional Development Roadmap -->
 ## 🗺️ Professional Development Roadmap
@@ -249,7 +230,7 @@ Post-graduation, I intend to pursue an **MSc in Software Engineering** to furthe
               <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
           </p>
-          <p><strong>PHP, Twig</strong> - Web development course project for De Montfort University showing frontend development skills and responsive design techniques.</p>
+          <p><strong>HTML, CSS, JavaScript</strong> - Web development course project for De Montfort University showing frontend development skills and responsive design techniques.</p>
         </div>
       </td>
       <td width="50%">
@@ -293,7 +274,12 @@ Post-graduation, I intend to pursue an **MSc in Software Engineering** to furthe
   <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-    
+  
+  <br><br>
+  <p>
+    <i>Thank you for reviewing my professional profile. I welcome opportunities for collaboration and professional development discussions.</i>
+  </p>
+  
   <br>
   <!-- Visitor Statistics -->
   <img src="https://profile-counter.glitch.me/b1cey/count.svg" alt="Visitor Count" />
