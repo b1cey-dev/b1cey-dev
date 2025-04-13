@@ -232,80 +232,74 @@ Post-graduation, I intend to pursue an **MSc in Software Engineering** to furthe
   </table>
 </div>
 
-<!-- Featured Projects - Professional Portfolio -->
-## 📁 Professional Portfolio Highlights
+<!-- Featured Projects - Your Actual Public Projects -->
+## 📁 Featured Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">E-Commerce Platform</h3>
+        <h3 align="center">DMU Web Project</h3>
         <div align="center">
-          <a href="https://github.com/b1cey/project1">
-            <img src="https://dummyimage.com/600x300/000/fff&text=E-Commerce+Platform" width="100%" alt="E-Commerce Platform"/>
+          <a href="https://github.com/web-development-DMU/web-project-course-module-solo">
+            <img src="https://dummyimage.com/600x300/000/fff&text=DMU+Web+Project" width="100%" alt="DMU Web Project"/>
           </a>
           <p>
-            <a href="https://github.com/b1cey/project1" target="_blank">
+            <a href="https://github.com/web-development-DMU/web-project-course-module-solo" target="_blank">
               <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/LIVE-58A6FF?style=for-the-badge&logo=netlify&logoColor=white"/>
-            </a>
           </p>
-          <p><strong>React, Redux, Tailwind CSS, Stripe</strong> - Fully responsive e-commerce platform with state management, shopping cart functionality, and payment integration.</p>
+          <p><strong>HTML, CSS, JavaScript</strong> - Web development course project for De Montfort University showing frontend development skills and responsive design techniques.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Content Management System</h3>
+        <h3 align="center">Personal Portfolio</h3>
         <div align="center">
-          <a href="https://github.com/b1cey/project2">
-            <img src="https://dummyimage.com/600x300/000/fff&text=Content+Management+System" width="100%" alt="Content Management System"/>
+          <a href="https://github.com/b1cey-dev/portfolio">
+            <img src="https://dummyimage.com/600x300/000/fff&text=Personal+Portfolio" width="100%" alt="Personal Portfolio"/>
           </a>
           <p>
-            <a href="https://github.com/b1cey/project2" target="_blank">
+            <a href="https://github.com/b1cey-dev/portfolio" target="_blank">
               <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="#" target="_blank">
+            <a href="https://b1cey.dev" target="_blank">
               <img src="https://img.shields.io/badge/LIVE-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p><strong>Next.js, TypeScript, Prisma, PostgreSQL</strong> - Comprehensive CMS with authentication, role-based access control, and content management capabilities.</p>
+          <p><strong>React, Tailwind CSS</strong> - Professional portfolio website showcasing my skills, projects, and development journey with a modern, responsive design.</p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Analytics Dashboard</h3>
+        <h3 align="center">React Weather App</h3>
         <div align="center">
-          <a href="https://github.com/b1cey/project3">
-            <img src="https://dummyimage.com/600x300/000/fff&text=Analytics+Dashboard" width="100%" alt="Analytics Dashboard"/>
+          <a href="https://github.com/b1cey-dev/weather-app">
+            <img src="https://dummyimage.com/600x300/000/fff&text=Weather+App" width="100%" alt="Weather App"/>
           </a>
           <p>
-            <a href="https://github.com/b1cey/project3" target="_blank">
+            <a href="https://github.com/b1cey-dev/weather-app" target="_blank">
               <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/LIVE-58A6FF?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+            <a href="https://weather.b1cey.dev" target="_blank">
+              <img src="https://img.shields.io/badge/LIVE-58A6FF?style=for-the-badge&logo=netlify&logoColor=white"/>
             </a>
           </p>
-          <p><strong>React, D3.js, Material UI</strong> - Interactive data visualization dashboard featuring real-time updates, filtering capabilities, and export functionality.</p>
+          <p><strong>React, OpenWeather API</strong> - Interactive weather application providing real-time forecasts, location-based weather data, and intuitive UI for accessing meteorological information.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Task Management Application</h3>
+        <h3 align="center">Task Manager</h3>
         <div align="center">
-          <a href="https://github.com/b1cey/project4">
-            <img src="https://dummyimage.com/600x300/000/fff&text=Task+Management" width="100%" alt="Task Management Application"/>
+          <a href="https://github.com/b1cey-dev/task-manager">
+            <img src="https://dummyimage.com/600x300/000/fff&text=Task+Manager" width="100%" alt="Task Manager"/>
           </a>
           <p>
-            <a href="https://github.com/b1cey/project4" target="_blank">
+            <a href="https://github.com/b1cey-dev/task-manager" target="_blank">
               <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/LIVE-58A6FF?style=for-the-badge&logo=firebase&logoColor=white"/>
-            </a>
           </p>
-          <p><strong>React, Firebase, Context API</strong> - Collaborative task management tool with real-time updates, task assignment, and progress tracking features.</p>
+          <p><strong>React, Local Storage</strong> - Personal task management application featuring task creation, categorization, priority levels, and persistent storage using browser local storage.</p>
         </div>
       </td>
     </tr>
