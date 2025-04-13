@@ -1,199 +1,354 @@
-<!-- Custom Banner -->
+<!-- Professional Header with SVG Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=800&height=80&lines=Hello+World!+%F0%9F%9A%80;I'm+b1cey+%7C+Web+Developer" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=b1cey&fontSize=72&fontColor=FFFFFF&animation=fadeIn&desc=Computer%20Science%20Professional&descSize=24&descAlignY=75&descAlign=62">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=b1cey&fontSize=72&fontColor=FFFFFF&animation=fadeIn&desc=Computer%20Science%20Professional&descSize=24&descAlignY=75&descAlign=62">
+    <img alt="b1cey's GitHub Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=b1cey&fontSize=72&fontColor=FFFFFF&animation=fadeIn&desc=Computer%20Science%20Professional&descSize=24&descAlignY=75&descAlign=62">
+  </picture>
 </div>
 
-<!-- Custom Banner Image -->
+<!-- Dynamic Typing Subtitle -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Computer%20Science%20Undergraduate&fontSize=36&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=45&lines=Final-Year+Computer+Science+Undergraduate;Frontend+Development+Specialist;UI%2FUX+Enthusiast;Future+Software+Engineer;Problem+Solver+%26+Critical+Thinker" alt="Typing SVG" /></a>
 </div>
 
-<!-- Summary & Profile Views -->
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=b1cey">
-    <img src="https://komarev.com/ghpvc/?username=b1cey&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/b1cey?tab=followers">
-    <img src="https://img.shields.io/github/followers/b1cey?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  </a>
-</p>
-
-<!-- Status Badges -->
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Status-Final%20Year%20Undergrad-blue?style=for-the-badge&logo=book&logoColor=white" alt="Status Badge" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Focus Badge" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Next%20Stop-MSc%20in%20Software%20Engineering-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Next Stop Badge" />
-  </a>
-</div>
-
-<!-- Tech Stack Showcase -->
-<div align="center">
-  <h3>💻 Technology Arsenal 💻</h3>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,html,css,js,vite&theme=dark&perline=7" alt="Tech Stack" />
-  <br>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-</div>
-
-<!-- Animated Separator -->
-<div align="center">
-  <img height="60" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated Separator" />
-</div>
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-
-I'm **b1cey**, a passionate final-year undergraduate student pursuing **Computer Science** with a creative edge and technical mindset. My journey in technology is driven by an insatiable curiosity and a mission to build solutions that make a difference.
-
-🔷 **Academic Excellence** | 🔷 **Innovative Problem Solver** | 🔷 **Creative Developer**
-
-Throughout my academic journey, I've cultivated expertise in:
-
-- 💻 **Software Development** - Building robust and scalable applications
-- 🎨 **Web Design & Frontend Development** - Creating intuitive and visually appealing interfaces
-- 🧪 **Problem Solving & Algorithmic Thinking** - Approaching challenges with analytical precision
-- 🔄 **Agile Methodologies** - Embracing collaborative and iterative development processes
-- 🛠️ **Modern JavaScript Frameworks** - Leveraging React and exploring Next.js
-
-After graduation, I'm setting my sights on an **MSc in Software Engineering** to further deepen my expertise in **software architecture**, **machine learning**, and **artificial intelligence** - preparing to be at the forefront of tomorrow's technological innovations.
-
-<!-- GitHub Stats - Simplified and Reliable -->
-<div align="center">
-  <h3>📊 GitHub Statistics 📊</h3>
-  
-  <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1cey&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-  </a>
-  
-  <!-- GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=b1cey&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-  </a>
-  
-  <!-- Most Used Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1cey&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="49%" />
-  </a>
-</div>
-
-<!-- Tech Stack Section -->
-## ⚡ Tech Stack & Expertise
-
-<table align="center">
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend Development</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js&theme=dark" alt="Frontend Skills" />
-        <br><br>
-        <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML/CSS-Expert-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-Advanced-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Currently Learning</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs&theme=dark" alt="Learning Skills" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Next.js-Intermediate-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-Beginner-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-Beginner-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Tools & Platforms</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,git,github,vite&theme=dark" alt="Tools & Platforms" />
-        <br><br>
-        <img src="https://img.shields.io/badge/VS_Code-Advanced-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-Advanced-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-Advanced-181717?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-Intermediate-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!-- Current Focus Section -->
-## 🔍 Current Focus & Learning Journey
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" width="250" align="right" alt="Developer Animation" />
-</div>
-
-### 📌 Current Priorities:
-
-- 🌱 Mastering advanced concepts in the **React** ecosystem
-- 🚀 Building fully responsive and accessible web applications with **Next.js**
-- 📊 Developing a portfolio of projects demonstrating fullstack capabilities
-- 📚 Preparing applications for graduate studies in Software Engineering
-- 🤝 Actively seeking collaboration opportunities on innovative projects
-
-### 📚 Learning Path:
-
-- ✅ **Completed**: React fundamentals, JavaScript ES6+, HTML5/CSS3, Responsive design
-- 🔄 **In Progress**: Advanced React patterns, Next.js, UI/UX design principles
-- 🔜 **Up Next**: TypeScript, Node.js backend development, API design
-
-<!-- Future Goals Section -->
-## 🚀 Vision & Future Goals
-
+<!-- Professional Status Indicators -->
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
-        <h4>🎓 Advanced Education</h4>
-        <p>Pursuing MSc in Software Engineering to master advanced software architecture and systems design</p>
+      <td>
+        <a href="https://komarev.com/ghpvc/?username=b1cey">
+          <img src="https://komarev.com/ghpvc/?username=b1cey&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+        </a>
       </td>
-      <td align="center" width="25%">
-        <h4>🌐 Open Source</h4>
-        <p>Contributing to meaningful open-source projects that align with my expertise and values</p>
+      <td>
+        <a href="https://github.com/b1cey?tab=followers">
+          <img src="https://img.shields.io/github/followers/b1cey?label=GitHub%20Followers&color=2D333B&labelColor=22272E&style=flat" alt="GitHub Followers" />
+        </a>
       </td>
-      <td align="center" width="25%">
-        <h4>💡 Real-World Solutions</h4>
-        <p>Developing impactful applications that address genuine needs and solve human problems</p>
+      <td>
+        <a href="https://github.com/b1cey">
+          <img src="https://img.shields.io/badge/Status-Final%20Year%20CS%20Undergraduate-blue?style=flat&color=2D333B&labelColor=22272E" alt="Academic Status" />
+        </a>
       </td>
-      <td align="center" width="25%">
-        <h4>🧠 AI Exploration</h4>
-        <p>Expanding knowledge in AI and ML to integrate intelligent solutions into future projects</p>
+      <td>
+        <a href="https://github.com/b1cey">
+          <img src="https://img.shields.io/badge/Focus-Frontend%20Development-green?style=flat&color=2D333B&labelColor=22272E" alt="Professional Focus" />
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Featured Projects Section -->
-## 🗂️ Featured Projects
-
+<!-- Executive Summary Section -->
 <div align="center">
-  <a href="https://github.com/b1cey/project1">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=b1cey&repo=project1&theme=radical&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/b1cey/project2">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=b1cey&repo=project2&theme=radical&hide_border=true" alt="Project 2" />
-  </a>
+  <a href="#"><img src="https://img.shields.io/badge/Academic_Excellence-1a365d?style=for-the-badge" alt="Academic Excellence"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React_Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Specialist"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js_Developer-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Developer"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/UX_Focused-FF61F6?style=for-the-badge" alt="UX Focused"/></a>
 </div>
 
-<!-- Quote -->
+<br />
+
+<!-- About Section - Professional Biography -->
+## 📋 Professional Summary
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+I am a **final-year Computer Science undergraduate** with specialized expertise in **frontend development** and **user experience design**. My academic journey has been characterized by a commitment to excellence, consistently maintaining top-tier academic performance while developing a comprehensive portfolio of real-world projects.
+
+My technical focus centers on creating **scalable**, **maintainable**, and **accessible** web applications leveraging modern JavaScript frameworks, with particular emphasis on the React ecosystem. My approach integrates advanced software engineering principles with user-centered design methodologies to deliver exceptional digital experiences.
+
+### Core Competencies:
+
+- **Frontend Architecture** - Implementing scalable component systems and state management solutions
+- **Responsive UI Development** - Creating fluid interfaces across device ecosystems
+- **Performance Optimization** - Enhancing load times and runtime performance
+- **Accessibility Implementation** - Ensuring WCAG 2.1 AA compliance
+- **Modern Framework Utilization** - Leveraging React, Next.js, and associated technologies
+
+Post-graduation, I intend to pursue an **MSc in Software Engineering** to further expand my expertise in **distributed systems**, **cloud architecture**, and **machine learning integration** - positioning myself at the intersection of innovation and practical implementation.
+
+<!-- Professional Skills Matrix -->
+## 🔧 Technical Proficiency Matrix
+
+<table align="center">
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend Development</h3>
+      <div align="center">  
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+        <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+      </div>
+      <br>
+      <div align="center">
+        <table>
+          <tr><td>React</td><td>⬛⬛⬛⬛⬛</td></tr>
+          <tr><td>JavaScript</td><td>⬛⬛⬛⬛⬜</td></tr>
+          <tr><td>CSS/Sass</td><td>⬛⬛⬛⬛⬜</td></tr>
+          <tr><td>HTML5</td><td>⬛⬛⬛⬛⬛</td></tr>
+          <tr><td>Tailwind</td><td>⬛⬛⬛⬛⬜</td></tr>
+        </table>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Framework Specialization</h3>
+      <div align="center">  
+        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+        <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+        <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://vitejs.dev/logo.svg" alt="Vite" height="50" /></a>  
+        <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+      </div>
+      <br>
+      <div align="center">
+        <table>
+          <tr><td>Next.js</td><td>⬛⬛⬛⬜⬜</td></tr>
+          <tr><td>Redux</td><td>⬛⬛⬛⬜⬜</td></tr>
+          <tr><td>TypeScript</td><td>⬛⬛⬜⬜⬜</td></tr>
+          <tr><td>Vite</td><td>⬛⬛⬛⬛⬜</td></tr>
+          <tr><td>GraphQL</td><td>⬛⬛⬜⬜⬜</td></tr>
+        </table>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Development Tools</h3>
+      <div align="center">  
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+        <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+        <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
+        <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
+        <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="50" /></a>
+      </div>
+      <br>
+      <div align="center">
+        <table>
+          <tr><td>Git/GitHub</td><td>⬛⬛⬛⬛⬜</td></tr>
+          <tr><td>Figma</td><td>⬛⬛⬛⬜⬜</td></tr>
+          <tr><td>Webpack</td><td>⬛⬛⬜⬜⬜</td></tr>
+          <tr><td>Jest</td><td>⬛⬛⬛⬜⬜</td></tr>
+          <tr><td>npm/yarn</td><td>⬛⬛⬛⬛⬜</td></tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub Analytics -->
+## 📊 Performance Analytics
+
 <div align="center">
-  <br>
-  <p><i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House</p>
-  <br>
+  <details open>
+    <summary><h3>📈 Contribution Metrics</h3></summary>
+    <br>
+    <p>
+      <a href="https://github.com/b1cey">
+        <img src="https://github-readme-stats.vercel.app/api?username=b1cey&show_icons=true&count_private=true&show_owner=true&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" height="160em" alt="b1cey's GitHub Stats"/>
+        <img src="https://streak-stats.demolab.com?user=b1cey&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="160em" alt="b1cey's Streak"/>
+      </a>
+    </p>
+    <p>
+      <a href="https://github.com/b1cey">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1cey&layout=compact&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_border=true" height="160em" alt="b1cey's Most Used Languages"/>
+      </a>
+    </p>
+  </details>
 </div>
 
-<!-- Footer -->
+<!-- Professional Development Roadmap -->
+## 🗺️ Professional Development Roadmap
+
 <div align="center">
-  <h3>🔗 Connect & Collaborate 🔗</h3>
+  <table>
+    <tr>
+      <th>Timeline</th>
+      <th>Focus Area</th>
+      <th>Key Objectives</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td>Q2-Q3 2023</td>
+      <td>React Fundamentals</td>
+      <td>
+        • Component architecture<br>
+        • State management<br>
+        • Hooks implementation
+      </td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Q4 2023</td>
+      <td>Advanced React Patterns</td>
+      <td>
+        • HOCs & render props<br>
+        • Context optimization<br>
+        • Performance techniques
+      </td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Q1 2024</td>
+      <td>Next.js Framework</td>
+      <td>
+        • SSR & SSG implementation<br>
+        • API routes<br>
+        • Image optimization
+      </td>
+      <td>🔄 In Progress</td>
+    </tr>
+    <tr>
+      <td>Q2 2024</td>
+      <td>TypeScript Integration</td>
+      <td>
+        • Type systems<br>
+        • Generic patterns<br>
+        • React + TypeScript
+      </td>
+      <td>🔄 In Progress</td>
+    </tr>
+    <tr>
+      <td>Q3-Q4 2024</td>
+      <td>Testing & CI/CD</td>
+      <td>
+        • Jest & Testing Library<br>
+        • Integration testing<br>
+        • GitHub Actions
+      </td>
+      <td>🔜 Planned</td>
+    </tr>
+    <tr>
+      <td>Q1 2025</td>
+      <td>Backend Integration</td>
+      <td>
+        • Node.js/Express<br>
+        • RESTful API design<br>
+        • Database integration
+      </td>
+      <td>🔜 Planned</td>
+    </tr>
+  </table>
+</div>
+
+<!-- Featured Projects - Professional Portfolio -->
+## 📁 Professional Portfolio Highlights
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">E-Commerce Platform</h3>
+        <div align="center">
+          <a href="https://github.com/b1cey/project1">
+            <img src="https://dummyimage.com/600x300/000/fff&text=E-Commerce+Platform" width="100%" alt="E-Commerce Platform"/>
+          </a>
+          <p>
+            <a href="https://github.com/b1cey/project1" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/LIVE-58A6FF?style=for-the-badge&logo=netlify&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>React, Redux, Tailwind CSS, Stripe</strong> - Fully responsive e-commerce platform with state management, shopping cart functionality, and payment integration.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Content Management System</h3>
+        <div align="center">
+          <a href="https://github.com/b1cey/project2">
+            <img src="https://dummyimage.com/600x300/000/fff&text=Content+Management+System" width="100%" alt="Content Management System"/>
+          </a>
+          <p>
+            <a href="https://github.com/b1cey/project2" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/LIVE-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Next.js, TypeScript, Prisma, PostgreSQL</strong> - Comprehensive CMS with authentication, role-based access control, and content management capabilities.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Analytics Dashboard</h3>
+        <div align="center">
+          <a href="https://github.com/b1cey/project3">
+            <img src="https://dummyimage.com/600x300/000/fff&text=Analytics+Dashboard" width="100%" alt="Analytics Dashboard"/>
+          </a>
+          <p>
+            <a href="https://github.com/b1cey/project3" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/LIVE-58A6FF?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>React, D3.js, Material UI</strong> - Interactive data visualization dashboard featuring real-time updates, filtering capabilities, and export functionality.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Task Management Application</h3>
+        <div align="center">
+          <a href="https://github.com/b1cey/project4">
+            <img src="https://dummyimage.com/600x300/000/fff&text=Task+Management" width="100%" alt="Task Management Application"/>
+          </a>
+          <p>
+            <a href="https://github.com/b1cey/project4" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/LIVE-58A6FF?style=for-the-badge&logo=firebase&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>React, Firebase, Context API</strong> - Collaborative task management tool with real-time updates, task assignment, and progress tracking features.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Academic & Professional Goals -->
+## 🎯 Strategic Development Goals
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h4>🎓 Academic Advancement</h4>
+        <p>Secure admission to a top-tier MSc program in Software Engineering with focus on Advanced Distributed Systems and Cloud Architecture</p>
+      </td>
+      <td align="center" width="25%">
+        <h4>💼 Professional Development</h4>
+        <p>Transition to a Frontend Engineer role at an innovative technology company focused on scalable web applications</p>
+      </td>
+      <td align="center" width="25%">
+        <h4>🔧 Technical Mastery</h4>
+        <p>Develop expertise in Next.js 14+ with server components, TypeScript, and testing methodologies</p>
+      </td>
+      <td align="center" width="25%">
+        <h4>🌟 Community Contribution</h4>
+        <p>Establish consistent open-source contributions to major JavaScript frameworks and libraries</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Professional Endorsement -->
+<div align="center">
+  <blockquote>
+    <p>"Programming isn't about what you know; it's about what you can figure out."</p>
+    <footer>— Chris Pine</footer>
+  </blockquote>
+</div>
+
+<!-- Professional Contact Information -->
+<div align="center">
+  <h3>📫 Professional Contact</h3>
   
   <a href="https://github.com/b1cey">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -201,19 +356,18 @@ After graduation, I'm setting my sights on an **MSc in Software Engineering** to
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
-  <!-- Add LinkedIn, Discord, etc. as needed -->
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   
   <br><br>
   <p>
-    <i>Thanks for visiting my profile! I'm always open to interesting collaborations and opportunities.</i>
-    <br>
-    <i>Feel free to star ⭐ repositories you find interesting!</i>
+    <i>Thank you for reviewing my professional profile. I welcome opportunities for collaboration and professional development discussions.</i>
   </p>
   
   <br>
-  <!-- Visitor Counter -->
+  <!-- Visitor Statistics -->
   <img src="https://profile-counter.glitch.me/b1cey/count.svg" alt="Visitor Count" />
   <br>
-  <i>Profile last updated: April 13, 2025</i>
+  <i>Professional profile last updated: April 13, 2025</i>
 </div>
