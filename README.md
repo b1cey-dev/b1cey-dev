@@ -253,53 +253,17 @@ Post-graduation, I intend to pursue an **MSc in Software Engineering** to furthe
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Personal Portfolio</h3>
+        <h3 align="center">CoinPVP</h3>
         <div align="center">
-          <a href="https://github.com/b1cey-dev/portfolio">
-            <img src="https://dummyimage.com/600x300/000/fff&text=Personal+Portfolio" width="100%" alt="Personal Portfolio"/>
+          <a href="https://github.com/b1cey-dev/CoinPVP">
+            <img src="https://dummyimage.com/600x300/000/fff&text=CoinPVP" width="100%" alt="CoinPVP"/>
           </a>
           <p>
-            <a href="https://github.com/b1cey-dev/portfolio" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://b1cey.dev" target="_blank">
-              <img src="https://img.shields.io/badge/LIVE-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>React, Tailwind CSS</strong> - Professional portfolio website showcasing my skills, projects, and development journey with a modern, responsive design.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">React Weather App</h3>
-        <div align="center">
-          <a href="https://github.com/b1cey-dev/weather-app">
-            <img src="https://dummyimage.com/600x300/000/fff&text=Weather+App" width="100%" alt="Weather App"/>
-          </a>
-          <p>
-            <a href="https://github.com/b1cey-dev/weather-app" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://weather.b1cey.dev" target="_blank">
-              <img src="https://img.shields.io/badge/LIVE-58A6FF?style=for-the-badge&logo=netlify&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>React, OpenWeather API</strong> - Interactive weather application providing real-time forecasts, location-based weather data, and intuitive UI for accessing meteorological information.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Task Manager</h3>
-        <div align="center">
-          <a href="https://github.com/b1cey-dev/task-manager">
-            <img src="https://dummyimage.com/600x300/000/fff&text=Task+Manager" width="100%" alt="Task Manager"/>
-          </a>
-          <p>
-            <a href="https://github.com/b1cey-dev/task-manager" target="_blank">
+            <a href="https://github.com/b1cey-dev/CoinPVP" target="_blank">
               <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
           </p>
-          <p><strong>React, Local Storage</strong> - Personal task management application featuring task creation, categorization, priority levels, and persistent storage using browser local storage.</p>
+          <p><strong>HTML, CSS, JavaScript, Backend Integration</strong> - Online gambling platform featuring various games and betting systems. Created for a client but released as open source after non-payment.</p>
         </div>
       </td>
     </tr>
