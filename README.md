@@ -293,12 +293,7 @@ Post-graduation, I intend to pursue an **MSc in Software Engineering** to furthe
   <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <br><br>
-  <p>
-    <i>Thank you for reviewing my professional profile. I welcome opportunities for collaboration and professional development discussions.</i>
-  </p>
-  
+    
   <br>
   <!-- Visitor Statistics -->
   <img src="https://profile-counter.glitch.me/b1cey/count.svg" alt="Visitor Count" />
