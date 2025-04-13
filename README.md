@@ -270,31 +270,7 @@ Post-graduation, I intend to pursue an **MSc in Software Engineering** to furthe
   </table>
 </div>
 
-<!-- Academic & Professional Goals -->
-## 🎯 Strategic Development Goals
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h4>🎓 Academic Advancement</h4>
-        <p>Secure admission to a top-tier MSc program in Software Engineering with focus on Advanced Distributed Systems and Cloud Architecture</p>
-      </td>
-      <td align="center" width="25%">
-        <h4>💼 Professional Development</h4>
-        <p>Transition to a Frontend Engineer role at an innovative technology company focused on scalable web applications</p>
-      </td>
-      <td align="center" width="25%">
-        <h4>🔧 Technical Mastery</h4>
-        <p>Develop expertise in Next.js 14+ with server components, TypeScript, and testing methodologies</p>
-      </td>
-      <td align="center" width="25%">
-        <h4>🌟 Community Contribution</h4>
-        <p>Establish consistent open-source contributions to major JavaScript frameworks and libraries</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- Professional Endorsement -->
 <div align="center">
@@ -317,6 +293,11 @@ Post-graduation, I intend to pursue an **MSc in Software Engineering** to furthe
   <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
+  <br><br>
+  <p>
+    <i>Thank you for reviewing my professional profile. I welcome opportunities for collaboration and professional development discussions.</i>
+  </p>
   
   <br>
   <!-- Visitor Statistics -->
