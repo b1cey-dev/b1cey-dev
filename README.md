@@ -244,7 +244,7 @@ Post-graduation, I intend to pursue an **MSc in Software Engineering** to furthe
               <img src="https://img.shields.io/badge/CODE-333333?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
           </p>
-          <p><strong>HTML, CSS, JavaScript, Backend Integration</strong> - Online gambling platform featuring various games and betting systems. Created for a client but released as open source after non-payment.</p>
+          <p><strong>Nextjs, JavaScript, Backend Integration</strong> - Online gambling platform featuring various games and betting systems. Created for a client but released as open source after non-payment.</p>
         </div>
       </td>
     </tr>
